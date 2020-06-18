@@ -1,0 +1,6 @@
+framework module Pods_AnimationTaping {
+  umbrella header "Pods-AnimationTaping-umbrella.h"
+
+  export *
+  module * { export * }
+}
